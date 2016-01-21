@@ -1,0 +1,34 @@
+Hi students of Intro to PCB Design class
+
+I'm Kheng Meng, the instructor of the Introduction to PCB Design class you have signed up for. Please read this carefully and prepare the necessary stuff before coming to class.
+
+Here is a reminder of the details.
+
+Date: 21 and 22 January 2016
+Time: 7 to 10pm for both days
+Attire: Comfortable clothes with covered shoes since this a fabrication lab with things lying around.
+Location: Prototyping Lab@National Design Centre, 111 Middle Road, #01-02, Singapore 188969
+
+Since this is a late class, try to have your dinner before coming. Make sure you have enough sleep the night before.
+
+Things you have to bring:
+
+	1. Laptop. Windows or Mac both acceptable
+	2. Laptop power adapter
+	3. A good mouse. You won't want to use the touchpad trust me.
+
+If you do not have the necessary equipment, inform me ASAP so I can arrange from the lab for you.
+
+Things you have to do:
+
+1. Download and install the latest version of Eagle currently version 7.5.  http://www.cadsoftusa.com/download-eagle/ Select Freeware version when prompted. 
+
+2. Download and install Libreoffice. Excel does not 100% work with Eagle. https://www.libreoffice.org/download/libreoffice-fresh/
+
+3. Revise basic electronics knowledge. Read everything in this link. http://www.instructables.com/id/Basic-Electronics/    Make sure to recognise and understand the functions of the basic electronics components. 
+
+
+If you have any questions, feel free to reply back to this email. Else, see you guys on Thursday 7pm sharp!
+
+Regards
+Yeo Kheng Meng
